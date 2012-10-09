@@ -1,6 +1,6 @@
 ## Image Extensions
 
-Image extensions is a plugin for [YOURLS](http://yourls.org). It will allow you to append image extensions (`.jpg`, `.jpeg`, `.png`, and `.gif`) to the end of your shortlinks as an alias. For example, `http://sho.rt/w4Je` could have an image extension added an look like `http://sho.rt/w4Je.jpg`.
+Image extensions is a plugin for [YOURLS](http://yourls.org). It will allow you to append image extensions (`.jpg`, `.jpeg`, `.png`, and `.gif`) to the end of your shortlinks as an alias. For example, `http://sho.rt/w4Je` could have an image extension added and look like `http://sho.rt/w4Je.jpg`.
 
 ## (In)frequently Asked Questions
 
